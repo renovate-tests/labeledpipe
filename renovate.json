@@ -9,6 +9,7 @@
       "automerge": true
     }
   },
+  "enabledManagers": ["docker"],
   "labels": ["refactor"],
   "lockFileMaintenance": {
     "enabled": true
