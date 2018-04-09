@@ -1,5 +1,4 @@
 {
-  "assignees": ["destroyerofbuilds"],
   "automerge": true,
   "docker": {
     "digest": {
@@ -18,6 +17,5 @@
     "automerge": false
   },
   "pinVersions": false,
-  "prCreation": "not-pending",
   "rebaseStalePrs": true
 }
